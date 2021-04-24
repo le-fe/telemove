@@ -32,3 +32,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 Travel website built by Vue 3 + Typescript + TailwindCSS
 
+Travel website built by Vue 3 + Typescript + TailwindCSS
